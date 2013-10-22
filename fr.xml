@@ -1197,9 +1197,9 @@
      <foreignId>{f13aa413-12db-4ac4-970f-a049a02b7e30}</foreignId>
      <text>père</text>
      <i18nText>father</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e0aef554-ef3e-448f-ac10-637f990615a5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1217,9 +1217,9 @@
      <foreignId>{bcfd006d-c3e8-49ef-bc08-0768c18c9cbe}</foreignId>
      <text>tante</text>
      <i18nText>aunt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{41fa3502-dc17-4777-83ec-a37015748334}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1227,19 +1227,19 @@
      <foreignId>{b81fd88c-bc00-4aea-a9cc-9489e566a00a}</foreignId>
      <text>frère</text>
      <i18nText>brother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{874b1abf-f40c-47b5-ac69-050d6f7c7973}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ebdc807c-1465-4c8d-bfff-c59246adf12c}</id>
      <foreignId>{ca56ec04-0662-425d-ae9d-4f282a342fb5}</foreignId>
-     <text>soeur</text>
+     <text>sœur</text>
      <i18nText>sister</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ebdc807c-1465-4c8d-bfff-c59246adf12c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1257,9 +1257,9 @@
      <foreignId>{108a4ddf-8c9b-4632-9188-0a7cfda508a1}</foreignId>
      <text>grand-père</text>
      <i18nText>grandfather</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{05251666-9b29-497a-8df5-6ee301cb0504}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1287,9 +1287,9 @@
      <foreignId>{4a17e0b5-117f-4123-aa09-699debeb26d5}</foreignId>
      <text>frères et sœurs</text>
      <i18nText>siblings</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b00a77bc-8beb-4371-a511-c79f1fb5a49c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1297,9 +1297,9 @@
      <foreignId>{3da7d5bb-73a4-4a15-92e7-b28f08fec585}</foreignId>
      <text>petit-fils</text>
      <i18nText>grandson</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{538ccab9-8ed9-4f2e-a257-ed3b85784434}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1317,9 +1317,9 @@
      <foreignId>{56ff75ed-c079-467a-b702-d83e2aa940ec}</foreignId>
      <text>femme</text>
      <i18nText>wife</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6fc92874-0a4a-4b8c-8407-5dab38995525}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1347,9 +1347,9 @@
      <foreignId>{6a867158-3c7f-48b7-9161-ea7317efe3f9}</foreignId>
      <text>neveu</text>
      <i18nText>nephew</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{456ff6ae-aad0-443d-8457-4a95e0f997d1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1367,9 +1367,9 @@
      <foreignId>{8862489f-7972-497b-be5d-b4afead9b4cd}</foreignId>
      <text>mariage</text>
      <i18nText>marriage</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{eadacc0f-b8f3-4bf6-90bb-ee63f32aab6d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1387,9 +1387,9 @@
      <foreignId>{65b33bbd-a5ba-45df-9b96-292e493220d5}</foreignId>
      <text>cousin</text>
      <i18nText>cousin</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dcf3d3d4-c817-4d15-8300-f551e34e9653}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1397,9 +1397,9 @@
      <foreignId>{337596af-ef04-4d45-b73f-22bbf477447d}</foreignId>
      <text>filleul</text>
      <i18nText>godson</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c65e19e-cb6b-407d-b5fc-a34a6e7b45ce}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1407,9 +1407,9 @@
      <foreignId>{51a09dd3-ac20-4bd0-a571-ab8e6384b769}</foreignId>
      <text>enfants</text>
      <i18nText>children</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2e627190-6133-43d0-bd28-a205b8d6d27f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1417,9 +1417,9 @@
      <foreignId>{5cab4a17-e261-460e-83b9-7219cbaac107}</foreignId>
      <text>bébé</text>
      <i18nText>baby</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b25ca23e-d51b-45f6-823c-8b92a697b752}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1447,9 +1447,9 @@
      <foreignId>{f0ff8f87-6998-4186-82b0-a5195c3cd2e6}</foreignId>
      <text>orphelin</text>
      <i18nText>orphan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{508d7cc4-ec6f-4555-b152-359c7b80a059}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1457,9 +1457,9 @@
      <foreignId>{89ae77b7-1653-4510-824e-12ad53d77951}</foreignId>
      <text>déshériter</text>
      <i18nText>disinherit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9e80f7fb-a45f-44c1-8f3e-cc20cc8576d0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1497,9 +1497,9 @@
      <foreignId>{98afb7b3-0977-49d9-a445-6fe26ae08397}</foreignId>
      <text>arrière-grand-mère</text>
      <i18nText>great grandmother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1a851f58-ef3a-4b19-867d-bd5360701498}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1517,9 +1517,9 @@
      <foreignId>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</foreignId>
      <text>jumelles</text>
      <i18nText>twin sisters</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{915ab8a2-b364-4ba5-8a0a-b3b0caa0612d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1527,9 +1527,9 @@
      <foreignId>{f3e4fae7-4c2e-4228-858d-004b85489a37}</foreignId>
      <text>beau-père</text>
      <i18nText>step-father</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a5e802f1-fc26-451e-98cf-d83af6aa23b0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1547,9 +1547,9 @@
      <foreignId>{08bd9966-4282-4fdb-82d1-4d8f21bf29e4}</foreignId>
      <text>ex-mari</text>
      <i18nText>ex-husband</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d1b768e0-c993-4f60-92fe-302060feb088}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1567,9 +1567,9 @@
      <foreignId>{17e9b72d-f2c2-4e92-9b06-7dcecc76262d}</foreignId>
      <text>éduquer</text>
      <i18nText>bring up</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cc49f5e7-57a9-4068-b741-bc2cfe44a36f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1587,9 +1587,9 @@
      <foreignId>{6cbc3c63-65a5-4892-8e56-2a2e663b6d65}</foreignId>
      <text>être divorcé</text>
      <i18nText>be divorced</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8ef3b010-6c2f-45d4-82a7-9aa9a518647b}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1607,9 +1607,9 @@
      <foreignId>{0fa0a6cf-01e1-4ae1-9313-b85d4639b348}</foreignId>
      <text>être marié</text>
      <i18nText>be married</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2c28ab64-acf0-4f66-b8db-c9d6ba9a2ae8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1627,9 +1627,9 @@
      <foreignId>{fc9a8359-3689-481f-8708-c725f8309537}</foreignId>
      <text>bien s'entendre</text>
      <i18nText>get on well</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{090dac2f-a037-444c-8415-4bbf33aa920e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1657,9 +1657,9 @@
      <foreignId>{b60de9ba-53fb-4df4-8893-31e67d022646}</foreignId>
      <text>nom de famille</text>
      <i18nText>family name</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1ecee11a-5124-49b5-953b-d7ef02299620}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1697,19 +1697,19 @@
      <foreignId>{8a74340e-5f78-48df-80ff-de6e94e416c0}</foreignId>
      <text>Mes parents ont divorcé il y a deux ans.</text>
      <i18nText>My parents got divorced two years ago.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d05130f7-ff69-4cd0-abc0-2871b326cdd7}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0410cc6-6fca-45a9-8615-0b40df64500c}</id>
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
-     <text>Ma belle soeur est juste tombée enceinte et elle attend un bébé.</text>
+     <text>Ma belle-sœur vient juste de tomber enceinte et elle attend un bébé.</text>
      <i18nText>My sister-in-law just got pregnant and she is expecting a baby.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e0410cc6-6fca-45a9-8615-0b40df64500c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1717,9 +1717,9 @@
      <foreignId>{a0a49252-3009-4c0a-86f4-0bab74ec379f}</foreignId>
      <text>Ma famille vit à New York.</text>
      <i18nText>My family lives in New York.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cbd9bda0-a6bd-4e12-91bd-9b829e9dcb32}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1727,9 +1727,9 @@
      <foreignId>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</foreignId>
      <text>Nous avons été mariés pendant 10 ans et nous avons deux enfants.</text>
      <i18nText>We have been married for 10 years and we have two children.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ed6a3c1f-569e-46d9-9664-1b5c8c911290}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1737,9 +1737,9 @@
      <foreignId>{70ed088d-d131-442d-b07e-531776d2c9d8}</foreignId>
      <text>Ils sont jumeaux.</text>
      <i18nText>They are twins.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4a50ce96-5801-4fd6-ad7d-29feca630fb7}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1765,11 +1765,11 @@
     <phrase>
      <id>{64523ba7-773b-40e6-85e4-15d4a8c12a4e}</id>
      <foreignId>{b8f8243f-b323-4359-bbfd-7ad8ddc3ad00}</foreignId>
-     <text>Anne est la plus jeune enfant dans notre famille.</text>
+     <text>Anne est la plus jeune enfant de notre famille.</text>
      <i18nText>Anne is the youngest child in our family.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{64523ba7-773b-40e6-85e4-15d4a8c12a4e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1777,9 +1777,9 @@
      <foreignId>{843e46b9-d6c2-4bc9-9f23-4af732aaff57}</foreignId>
      <text>Carol et Michael sont les grands-parents de Robert.</text>
      <i18nText>Carol and Michael are Robert's grandparents.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{422161e9-a10e-4746-a37a-1e4a0b9b6597}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1807,25 +1807,25 @@
      <foreignId>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</foreignId>
      <text>Mon père est ingénieur.</text>
      <i18nText>My father is an engineer.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ff0de93b-100d-4d70-90df-c4e8087856c1}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{94126a9d-15fb-42f1-a731-4049c952d1e4}</id>
      <foreignId>{383e2b89-9c86-4b6c-a7d1-2ab688625ef4}</foreignId>
-     <text>Quelle est la taille de votre famille ?</text>
+     <text>Combien de membres y a-t-il dans votre famille ?</text>
      <i18nText>How big is your family?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{94126a9d-15fb-42f1-a731-4049c952d1e4}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0e14be53-ff25-4d9c-8f81-fe0a5818e28e}</id>
      <foreignId>{c8e812e6-d98e-4154-972a-acbd051e42cd}</foreignId>
-     <text>Avez-vous des frères et soeurs ?</text>
+     <text>Avez-vous des frères et sœurs ?</text>
      <i18nText>Do you have any siblings?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1845,11 +1845,11 @@
     <phrase>
      <id>{c2a278e7-66c1-468b-8387-33f6c123e28a}</id>
      <foreignId>{d715af37-b8c2-4f68-a8f0-fb1940717027}</foreignId>
-     <text>Vos parents sont séparés ou ils vivent toujours ensemble ?</text>
+     <text>Vos parents sont-ils séparés ou vivent-ils toujours ensemble ?</text>
      <i18nText>Are your parents separated or they still live together?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c2a278e7-66c1-468b-8387-33f6c123e28a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1865,11 +1865,11 @@
     <phrase>
      <id>{a7462d6c-6224-46a1-b989-589642e3843d}</id>
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
-     <text>Julia et Holy sont jumeaux et ils sont exactement les mêmes. Ils ont été élevés ensemble et depuis qu'ils sont enfants, leur mère a essayé de les habiller à l'identique. Il y a beaucoup de photos dans l'album de famille où les filles sont indifférentiables..</text>
+     <text>Julia et Holy sont jumelles et ce sont exactement les mêmes. Elles ont été élevées ensemble et depuis qu'elles sont enfants, leur mère a essayé de les habiller à l'identique. Il y a beaucoup de photos dans l'album de famille où les filles sont indifférentiables.</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a7462d6c-6224-46a1-b989-589642e3843d}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
